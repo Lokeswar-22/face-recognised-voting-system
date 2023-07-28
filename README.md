@@ -41,16 +41,6 @@ I used the LBPH algorithm for face detection and recognition: The Local Binary P
 # # # Haar-cascade Algorithm
 Rather than using the pixel's intensity data, it alters the contrast between neighboring rectangular groupings of pixels. The contrast variances between pixel groupings are used to estimate the relative bright and dark areas. Two or three neighboring groups with relative contrast variance constitute a Haar-like characteristic. Having an accuracy of 95%, the algorithm is extremely successful in face detection. Haar classifier cascades need to be trained for detection of facial features of human i.e., mouth, eyes, nose etc.
 ##### Flowchart for Haar-cascade Algorithm
-![image](https://user-images.githubusercontent.com/106246237/170875641-f25afa92-880b-4d47-85d6-e7dfe6ea2759.png)
-
-
-## System Architechture
-![image](https://user-images.githubusercontent.com/106246237/170875663-8cfefd74-b098-4b0a-bb96-e3326c7b5151.png)
-
-
-
-## Link to PPT
-https://docs.google.com/presentation/d/1X2DS4oQx7-ns9vRKsWSMlbcEgEavgOVP/edit?usp=sharing&ouid=103275090668226320175&rtpof=true&sd=true
 
 
 
